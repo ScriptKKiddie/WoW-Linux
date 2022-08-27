@@ -6,6 +6,8 @@ WoW-Linux is all-in-one repository curated with the most relevant, updated, and 
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
+## Reference(s)
+- https://docs.fedoraproject.org/en-US/epel/
 
 ## Author(s)
 
